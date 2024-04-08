@@ -1,0 +1,17 @@
+{
+    "Name": "s_test",
+    "Texture": "content/assets/test.png",
+    "AnimationSpeed": 0,
+    "Origin": {
+        "X": 0,
+        "Y": 0
+    },
+    "Frames": [
+        {
+            "X": 0,
+            "Y": 0,
+            "Width": 16,
+            "Height": 16
+        }
+    ]
+}
